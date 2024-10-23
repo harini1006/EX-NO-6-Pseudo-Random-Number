@@ -23,6 +23,7 @@ Repeat until count random numbers are generated, then terminate the program.
 ```
 Developed by:Harini V
 Register no.: 212222230044
+```
 ```c
 #include <stdio.h>
 #include <stdlib.h>
